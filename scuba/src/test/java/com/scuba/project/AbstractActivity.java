@@ -10,7 +10,7 @@ public class AbstractActivity {
 For (inti=0:i<n;i++)
 
 }
-abstract class Sunstar {
+abstract class Moon {
     abstract void printInfo();
 }
  
