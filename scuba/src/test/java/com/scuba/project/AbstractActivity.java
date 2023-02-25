@@ -16,7 +16,7 @@ abstract class Sunstar {
  
 class Employee extends Sunstar {
     void printInfo() {
-        String name = "Raja";
+        String name = "Ram";
         int age = 21;
         float salary = 222.2F;
  
